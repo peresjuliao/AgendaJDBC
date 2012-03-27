@@ -1,14 +1,5 @@
 package br.com.agenda.teste;
 
-import java.sql.SQLException;
-import java.util.List;
-
-import junit.framework.Assert;
-
-import org.junit.Test;
-
-import br.com.agenda.dao.impl.PessoaDaoImpl;
-import br.com.agenda.model.Pessoa;
 
 public class PessoaDaoImplTest {
 
